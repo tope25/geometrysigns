@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Geometry Signs</string>
+
+    <array name="angle">
+        <item>The amount of turn between two lines that meet at a common point (vertex).
+        </item>
+    </array>
+
+    <array name="measured">
+        <item>An angle for which the measurement in degrees or radians is known.
+        </item>
+    </array>
+
+
+    <array name="spherical">
+        <item>An angle formed by intersecting arcs on a spheres surface.
+        </item>
+    </array>
+
+
+    <array name="right">
+        <item>An angle that measures 90 degrees, forming an "L" shape.
+        </item>
+    </array>
+
+
+    <array name="degree">
+        <item>A unit of measurement for angles, where a full circle is divided into 360 degrees.
+        </item>
+    </array>
+
+
+    <array name="degrees">
+        <item>The symbol used to represent degrees.
+        </item>
+    </array>
+
+
+    <array name="primes">
+        <item>A symbol used to represent minutes in angles, where 1 degree equals 60 minutes.
+        </item>
+    </array>
+
+
+    <array name="doubleprime">
+        <item>A symbol used to represent seconds in angles, where 1 minute equals 60 seconds.
+        </item>
+    </array>
+
+
+    <array name="line">
+        <item>A straight path that extends infinitely in both directions.
+        </item>
+    </array>
+
+
+    <array name="linesegment">
+        <item>A part of a line with two endpoints.
+        </item>
+    </array>
+
+
+    <array name="ray">
+        <item>A portion of a line that starts at a point (the endpoint) and extends infinitely in
+            one direction.
+        </item>
+    </array>
+
+
+    <array name="arc">
+        <item>A part of the circumference of a circle, typically measured in degrees.
+        </item>
+    </array>
+
+
+    <array name="perpendicular">
+        <item>Lines or segments that meet at right angles.
+        </item>
+    </array>
+
+
+    <array name="parallel">
+        <item>Lines that will never intersect, no matter how far they extend.
+        </item>
+    </array>
+
+
+    <array name="congruentto">
+        <item>Two shapes or objects that have the same size and shape.
+        </item>
+    </array>
+
+
+    <array name="similarity">
+        <item>Two shapes that have the same shape but possibly different sizes.
+        </item>
+    </array>
+
+
+    <array name="triangle">
+        <item>A polygon with three sides and three angles.
+        </item>
+    </array>
+
+
+    <array name="distance">
+        <item>The length of the shortest path between two points.
+        </item>
+    </array>
+
+
+    <array name="piconstant">
+        <item>A mathematical constant approximately equal to 3.14159, often used in
+        </item>
+    </array>
+
+
+    <array name="radians">
+        <item>A unit of measurement for angles where the angle is measured in relation to the radius
+            of a circle.
+        </item>
+    </array>
+
+
+    <array name="rad">
+        <item>The symbol used to represent radians.
+        </item>
+    </array>
+
+
+    <array name="gradians">
+        <item>A unit of measurement for angles where a full circle is divided into 400 gradians or
+            gons.
+        </item>
+    </array>
+
+    <string name="swipe_viewpager">swipe_viewpager</string>
+</resources>
